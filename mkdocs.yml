@@ -1,0 +1,6 @@
+site_name: MarkovBox
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Course: course/
