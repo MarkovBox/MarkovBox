@@ -4,3 +4,4 @@ theme:
 nav:
   - Home: index.md
   - Course: course/
+  - Materials: materials/
