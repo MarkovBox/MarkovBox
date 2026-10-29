@@ -1,7 +1,9 @@
 site_name: MarkovBox
 theme:
-  name: material
+  name: mkdocs
 nav:
   - Home: index.md
-  - Course: course/
-  - Materials: materials/
+  - Course: 
+    - Schedule: course/schedule.md
+  - Materials:
+    - Bill Of Materials: materials/BOM.md
