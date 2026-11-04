@@ -2,13 +2,13 @@
 
 | Sprint | Termin            | Zadanie                                         |
 | :----: | ----------------- | ----------------------------------------------- |
-|   4    | 1. połowa 12.2026 | Gotowy model Markowa                            |
-|   5    | 2. połowa 12.2026 | Silnik dźwięku oparty na syntezie subtraktywnej |
-|   6    | 01.2027           | Działający prototyp                             |
-|   6    | 01.2027           | Plakat                                          |
-|   7    | 01.2027           | Dokumentacja techniczna projektu                |
-|   7    | 01.2027           | Dokumentacja procesu projektowania              |
-|   7    | 01.2027           | Prezentacja                                     |
+|   4    | 18.12.2026        | Gotowy model Markowa                            |
+|   6    | 07.01.2027        | Silnik dźwięku oparty na syntezie subtraktywnej |
+|   7    | 21.01.2027        | Działający prototyp                             |
+|   7    | 27.01.2027        | Plakat                                          |
+|   7    | 27.01.2027        | Dokumentacja techniczna projektu                |
+|   7    | 27.01.2027        | Dokumentacja procesu projektowania              |
+|   7    | 27.01.2027        | Prezentacja                                     |
 
 ## Sprinty
 
