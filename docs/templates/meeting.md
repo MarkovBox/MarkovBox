@@ -1,6 +1,7 @@
 # Meeting: <topic> 
 
-**Date:** DD-MM-YYYY <br>
+**Date:** DD-MM-YYYY HH:MM-HH:MM <br>
+**Form:** <online/stationary> <br>
 **Members:**
 
 ## Goal
@@ -15,3 +16,4 @@
 |:------:|:-------:|:-----:|:-------:|
 | <what task>| @who | DD-MM-YYYY | #123 |
 
+## Conclusions
