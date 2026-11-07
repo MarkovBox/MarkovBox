@@ -7,3 +7,7 @@ nav:
     - Schedule: course/schedule.md
   - Materials:
     - Bill Of Materials: materials/BOM.md
+  - Meetings:
+      28-10-2026: meetings/28-10-2026.md
+      29-10-2026: meetings/29-10-2026.md
+      05-11-2026: meetings/05-11-2026.md
