@@ -1,0 +1,6 @@
+[submodule "src/firmware/DaisySP"]
+	path = src/firmware/DaisySP
+	url = https://github.com/electro-smith/DaisySP
+[submodule "src/firmware/libDaisy"]
+	path = src/firmware/libDaisy
+	url = https://github.com/electro-smith/libDaisy
