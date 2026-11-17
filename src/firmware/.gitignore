@@ -1,2 +1,5 @@
+.cache/
 build/
+build_pc/
 compile_commands.json
+output.wav
